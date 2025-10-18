@@ -1,0 +1,6 @@
+flask
+pymysql
+requests-html
+beautifulsoup4
+lxml_html_clean
+pyppeteer==1.0.2
